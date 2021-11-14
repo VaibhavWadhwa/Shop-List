@@ -1,0 +1,17 @@
+li{
+    cursor: pointer;
+}
+
+.shop_container{
+    justify-content: center;
+}
+
+
+.shoplist_container{
+    box-shadow: 2px 2px #888888;
+}
+
+.shop_details{
+    display: flex;
+    flex-direction: column;
+}
